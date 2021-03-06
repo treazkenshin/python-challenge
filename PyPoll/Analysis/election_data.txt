@@ -1,0 +1,10 @@
+
+Financial Analysis
+----------------------------
+Months:         86
+Total:          $38382578
+Minimum:        Sep-2013 $-1196225
+Maximum:        Feb-2012 $1170593
+Minimum Change: Sep-2013 $-2180880
+Maximum Change: Feb-2010 $984655
+Average Change: $-531721.48
